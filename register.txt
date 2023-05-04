@@ -1,0 +1,5 @@
+tom {b:=;
+mary bv6:9
+lisa cn7;9
+open `9:;
+green ha<7>
