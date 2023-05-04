@@ -1,5 +1,5 @@
 # Student_Management_System_C
-C language homework, simple student management system.
+C language homework, simple student management system.\n
 【问题定义】： 
 设有学生自然信息如下：学号、姓名、出生日期、所在系、3门课程（高数、数字逻辑、离散数学）的成绩。
 编写一个程序，完成菜单选择进入用户或管理员界面；
